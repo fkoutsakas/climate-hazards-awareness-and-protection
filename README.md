@@ -1,1 +1,1 @@
-# climate-hazards-awareness-and-protection
+# Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία
