@@ -1,16 +1,18 @@
 # Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία
 ## 0. Περιεχόμενα
-[1. Εισαγωγή](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
+### [1. Εισαγωγή](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
 
-[2. Στόχοι του προγράμματος](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
+### [2. Στόχοι του προγράμματος](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 
-[3. Σχολικό έτος 2022-23](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2022-23)
+### [3. Σχολικό έτος 2022-23](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2022-23)
 
-[4 Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
+### [4 Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
 
-[5. Σχολικό έτος 2020-21](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2020-21)
+### [5. Σχολικό έτος 2020-21](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2020-21)
 
-[6. Βιβλιογραφία]
+### [6. Βιβλιογραφία]
+
+
 
 ## 1. Εισαγωγή
 Το εκπαιδευτικό πρόγραμμα "Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία" υλοποιείται κατά τη διάρκεια των τριών τελευταίων σχολικών ετών (2020-21, 2021-22, 2022-23), από το Πειραματικό Σχολείο του Πανεπιστημίου Θεσσαλονίκης (στο εξής ΠΣΠΘ), με την επιστημονική υποστήριξη του Τομέα Μετεωρολογίας και Κλιματολογίας του Τμήματος Γεωλογίας του ΑΠΘ, με επιστημονική υπεύθυνη την κ. Κωνσταντία Τολίκα.
@@ -35,8 +37,11 @@
 ### Παραδοτέα εκπαιδευτικού προγράμματος 2020-21
 | a/a | Τύπος |	Τίτλος | Συνοπτική Περιγραφή | Σύνδεσμος |
 |:--|--:|--:|--:|--:|
-|Χ.|Διάχυση|Διεθνής Ημέρα Ανοιχτών Δεδομένων 2022 (Open Data Day 2022)|Συμμετοχή σε εκδήλωση για τη διεθνή ημέρα ανοιχτών δεδομένων |[ΕΔΩ](https://pspth.edu.gr/ekdilosi-enimerosis-gia-ta-synola-anichton-dedomenon-pou-paragonte-apo-ta-ekpedeftika-programmata-tou-pspth/)|
-|Χ.|Διάχυση / Διάκριση |  7ο Διεθνές Συνέδριο για την Προώθηση της Εκπαιδευτικής Καινοτομίας, Λάρισα 15-17 Οκτωβρίου | Εισήγηση με τίτλο "Κατασκευή, παραμετροποίηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού, βασισμένου σε ανοιχτές τεχνολογίες, στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία"|Εισήγηση [ΕΔΩ](https://www.researchgate.net/publication/355781976_Kataskeue_parametropoiese_kai_diacheirise_enos_protypou_meteorologikou_stathmou_basismenou_se_anoichtes_technologies_sto_plaisio_tou_ergou_Akraia_Kairika_Phainomena_enemerose_ekpaideuse_kai_prostasia) Βιντεοσκοπημενη πατουσίαση [ΕΔΩ](https://www.youtube.com/watch?v=YgWr0RpHslw)|
+|1.|Διάχυση|Διεθνής Ημέρα Ανοιχτών Δεδομένων 2022 (Open Data Day 2022)|Συμμετοχή σε εκδήλωση για τη διεθνή ημέρα ανοιχτών δεδομένων |[ΕΔΩ](https://pspth.edu.gr/ekdilosi-enimerosis-gia-ta-synola-anichton-dedomenon-pou-paragonte-apo-ta-ekpedeftika-programmata-tou-pspth/)|
+|2.|Διάχυση / Διάκριση |  7ο Διεθνές Συνέδριο για την Προώθηση της Εκπαιδευτικής Καινοτομίας, Λάρισα 15-17 Οκτωβρίου | Εισήγηση με τίτλο "Κατασκευή, παραμετροποίηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού, βασισμένου σε ανοιχτές τεχνολογίες, στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία"|Εισήγηση [ΕΔΩ](https://www.researchgate.net/publication/355781976_Kataskeue_parametropoiese_kai_diacheirise_enos_protypou_meteorologikou_stathmou_basismenou_se_anoichtes_technologies_sto_plaisio_tou_ergou_Akraia_Kairika_Phainomena_enemerose_ekpaideuse_kai_prostasia) Βιντεοσκοπημενη πατουσίαση [ΕΔΩ](https://www.youtube.com/watch?v=YgWr0RpHslw)|
+|3.|Διδακτικό Σενάριο|Μελετώντας το φαινόμενο της κλιματικής αλλαγής μέσα από την καταγραφή και ανάλυση μετεωρολογικών δεδομένων|Διδακτικό Σενάριο επεξεργασίας αυθεντικών μετεωρολογικών δεδομένων τα οποία προέρχονται από του μετεωρολογικό σταθμό του ΠΣΠΘ.|Σενάριο [ΕΔΩ](https://docs.google.com/document/d/1HMcxNWZexdsMdJaznrP75ba43r29vELL/edit?usp=sharing&ouid=102187192160075608820&rtpof=true&sd=true), Παρουσίαση [ΕΔΩ](https://drive.google.com/file/d/1N2D83NsoMSSAD6YZMUk3t8IvbIxagva1/view?usp=share_link)|
+|7.|Φύλλο Εργασίας| Επεξεργασία δεδομένων βροχόπτωσης | Φύλλο Εργασίας Επεξεργασία δεδομένων βροχόπτωσης για το μάθημα της Φυσικής και της Γεωργραφίας της Α Γυμνασίου  |[ΕΔΩ](https://drive.google.com/file/d/1cum40Wcm9yIJ8j6JKrNnFzena44DmIT1/view?usp=share_link) |
+|7.|Φύλλο Εργασίας| Επεξεργασία δεδομένων θερμοκρασίας | Φύλλο Εργασίας Επεξεργασία δεδομένων θερμοκρασίας για το μάθημα της Φυσικής και της Γεωργραφίας της Α Γυμνασίου  |[ΕΔΩ](https://drive.google.com/file/d/1lAlmr_PHpEOl3WEr_zeQCG-DTW-Qiihc/view?usp=sharing) |
 
 ## 5. Σχολικό έτος 2020-21
 Κατά τη διάρκεια του σχολικού έτους 2020-21, το εκπαιδευτικό πρόγραμμα είχε αφενός διεπιστημονικό χαρακτήρα μιας και υλοποιήθηκε στο πλαίσιο του προγράμματος σπουδών πέντε διαφορετικών μαθημάτων (Φυσική, Γεωγραφία, Μαθηματικά, Αρχαία Ελληνικά και Πληροφορική), υπερβαίνοντας όμως τα όρια αυτών των μαθημάτων και αφετέρου είναι ταυτόχρονα διαθεματικό, καθώς η όλη διδακτική προσέγγιση/μεθοδολογία στηρίχθηκε στη φιλοσοφία STEAM, συνδυάζοντας γνώσεις και δεξιότητες για να ενισχύσει την κατανόηση των μαθητών για τις πολύπλοκες έννοιες που αφορούν στην κλιματική αλλαγή στην ολότητά τους.
@@ -59,6 +64,6 @@
 |3.| Διάχυση	| Διαγωνισμός Bravo Schools | Συμμετοχή και **Βράβευση** στον διαγωνισμό κοινωνικής υπευθυνότητας για τους Παγκόσμιους Στόχους Βιώσιμης Ανάπτυξης του ΟΗΕ, ατον πυλώνα Περιβάλλον. Η συμμετοχή μας βραβεύτηκε λόγω της μεγάλης ενεργοποίησης & συμμετοχής που πέτυχε για την τοπική κοινωνία  | [ΕΔΩ](https://bravosustainabilityawards.com/bravo-o-thesmos/bravo-schools/) και [ΕΔΩ](https://pspth.edu.gr/i-psifos-tou-kinou-charise-sto-pspth-mia-simantiki-diakrisi-ston-diagonismo-bravo-schools-2021/)|
 |4.| Διάχυση |  13ο Διαδικτυακό Μαθητικό Συνέδριο Πληροφορικής Κεντρικής Μακεδονίας | Εισήγηση στο 13ο Διαδικτυακό Μαθητικό Συνέδριο Πληροφορικής Κεντρικής Μακεδονίας με την εισήγηση "Κατασκευή, παραμετροποίηση, τοποθέτηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού βασισμένου σε ανοιχτές τεχνολογίες στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία"| Εισήγηση [ΕΔΩ](https://docs.google.com/document/d/1L83doyNy6C4EYBa3M2oVyItksvU-Bjcn/edit), Παρουσίαση [ΕΔΩ](https://docs.google.com/presentation/d/1dKhBuWdPDacqIAKNTgXMxOWKBaVYtr51h6k2uDUdORg/edit#slide=id.p)|
 |5.|	Διάχυση | Σχολείο σε Δράηση | Εκδήλωση παρουσίασης εκπαιδευτικών προγραμμάτων και δράσεψν του ΠΣΠΘ του σχολικού έτους 2020-21 | Παρουσίαση [ΕΔΩ](https://docs.google.com/presentation/d/1GTYiidPSKDn5S-mknygpKjTcb-e5JhjUQlsebXwNYaQ/edit?usp=sharing), Αφίσα [ΕΔΩ](https://drive.google.com/file/d/17lyx8Fio3d6D6Q92KP1MhPNxmEGDHXZ6/view)|
-|7.|	| | | |
+
 
 
