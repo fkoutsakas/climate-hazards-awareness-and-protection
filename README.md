@@ -1,16 +1,16 @@
 # Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία
-## 0. Περιεχόμενα
-[1. Εισαγωγή](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
+## Περιεχόμενα
+## [1. Εισαγωγή](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE)
 
-[2. Στόχοι του προγράμματος](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
+## [2. Στόχοι του προγράμματος](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 
-[3. Σχολικό έτος 2020-21](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2020-21)
+## [3 Σχολικό έτος 2020-21](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2020-21)
 
-[4 Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
+## [3 Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
 
-[5. Σχολικό έτος 2022-23](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2022-23)
+## [3 Σχολικό έτος 2022-23](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2022-23)
 
-[6. Βιβλιογραφία]
+## [4. Βιβλιογραφία]
 
 ## 1. Εισαγωγή
 Το εκπαιδευτικό πρόγραμμα "Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία" υλοποιείται κατά τη διάρκεια των τριών τελευταίων σχολικών ετών (2020-21, 2021-22, 2022-23), από το Πειραματικό Σχολείο του Πανεπιστημίου Θεσσαλονίκης (στο εξής ΠΣΠΘ), με την επιστημονική υποστήριξη του Τομέα Μετεωρολογίας και Κλιματολογίας του Τμήματος Γεωλογίας του ΑΠΘ, με επιστημονική υπεύθυνη την κ. Κωνσταντία Τολίκα.
@@ -53,9 +53,6 @@
 - 11 εκπαιδευτικοί (Ελένη Πετρίδου, Σαπφώ Φωτιάδου Φυσικής, Μαρία Μποζέλου Μαθηματικός, Γιώργος Ποιμενίδης Φιλόλογος, Μαρίνα Λάγουρη Δασκάλα / Δντρια Δημοτικού, Σταυρούλα Μαστοροδήμου Νηπιαγωγός, Εμμανουήλ Κοσμίδης Πληροφορικός, Φίλιππος Κουτσάκας Πληροφορικός) και
 - 205 μαθητές 
 από όλες τις βαθμίδες του ΠΣΠΘ, από το Νηπιαγωγείο, το Δημοτικό, το Γυμνάσιο και το Λύκειο.
-
-
-
 
 ### Παραδοτέα 2021-22
 | a/a | Τύπος |	Τίτλος | Συνοπτική Περιγραφή | Σύνδεσμος |
