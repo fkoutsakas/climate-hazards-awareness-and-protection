@@ -124,3 +124,4 @@ Time Weather Data PSPTH. (2021). Retrieved June 24, 2021, fromhttps://thingspeak
 Raspberry Pi (2021). Teach, Learn, and Make with Raspberry Pi. Retrieved June 24, 2021,from https://www.raspberrypi.org/Think Speak for Iot Projects. (2021). Retrieved June 24, 2021, fromhttps://thingspeak.com/VNC (2021). VNC Viewer. Retrieved June 24, 2021, fromhttps://www.realvnc.com/en/connect/download/viewer/
 
 (PDF) Κατασκευή, παραμετροποίηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού, βασισμένου σε ανοιχτές τεχνολογίες, στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία». Available from: https://www.researchgate.net/publication/355781976_Kataskeue_parametropoiese_kai_diacheirise_enos_protypou_meteorologikou_stathmou_basismenou_se_anoichtes_technologies_sto_plaisio_tou_ergou_Akraia_Kairika_Phainomena_enemerose_ekpaideuse_kai_prostasia [accessed Mar 03 2023].
+
