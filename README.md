@@ -5,12 +5,14 @@
 2. [Στόχοι του προγράμματος](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%84%CF%8C%CF%87%CE%BF%CE%B9-%CF%84%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1%CF%84%CE%BF%CF%82)
 
 3. [Σχολικό έτος 2020-21](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2020-21)
-
-4. [Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
+  
+ 4. [Σχολικό έτος 2021-22](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2021-22)
 
 5. [Σχολικό έτος 2022-23](https://github.com/fkoutsakas/climate-hazards-awareness-and-protection/edit/main/README.md#%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C-%CE%AD%CF%84%CE%BF%CF%82-2022-23)
 
-6. [Βιβλιογραφία]
+6. [Ο Μετεωρολογικός σταθμός του ΠΣΠΘ]()
+
+7. [Βιβλιογραφία]()
 
 ## 1. Εισαγωγή
 Το εκπαιδευτικό πρόγραμμα "Ακραία Καιρικά Φαινόμενα: Ενημέρωση, Εκπαίδευση και Προστασία" υλοποιείται κατά τη διάρκεια των τριών τελευταίων σχολικών ετών (2020-21, 2021-22, 2022-23), από το Πειραματικό Σχολείο του Πανεπιστημίου Θεσσαλονίκης (στο εξής ΠΣΠΘ), με την επιστημονική υποστήριξη του Τομέα Μετεωρολογίας και Κλιματολογίας του Τμήματος Γεωλογίας του ΑΠΘ, με επιστημονική υπεύθυνη την κ. Κωνσταντία Τολίκα.
@@ -72,8 +74,15 @@
 
 
 ## 5. Σχολικό έτος 2022-23
-Εστίαση στα ανοιχτά δεδομένα...
-### Παραδοτέα
+Κατά τη διάρκεια του σχολικού έτους 2022-23, το εκπαιδευτικό πρόγραμμα συνεχίζεται με την ίδια στοχοθεσία αξιοποίησης των μετεωρολογικών δεδομένων του σταθμού στα διδακτικά αντικείμενα των βαθμίδων του σχολείου και ταυτόχρονα της διάχυσης προς την σχολική κοινότητα και την ευρύτερη κοινωνία των αποτελεσμάτων/συμπερασμάτων του και των καλών πρακτικών που αναπτύχθηκαν κατά τη διάρκεια των προηγόυμενων ετών. 
+Επιπλέον κατά το τρέχον σχολικό έτος γίνεται μία ιδιαίτερη προσπάθεια οργάνωσης και συστηματικής διάθεσης συνόλων δεδομένων κάτω από άδειες ανοιχτής φιλοσοφίας (open weather data sets).
+
+Στο πλαίσιο του προγράμματος συνεργάζονται
+- 5 εκπαιδευτικοί (Σαπφώ Φωτιάδου Φυσικής, Νίκη Ζωγράφου Δασκάλα, Σταυρούλα Μαστοροδήμου Νηπιαγωγός, Εμμανουήλ Κοσμίδης Πληροφορικός, Φίλιππος Κουτσάκας Πληροφορικός) και
+- 105 μαθητές 
+από το Νηπιαγωγείο, το Δημοτικό και το Γυμνάσιο του ΠΣΠΘ
+
+### Παραδοτέα 2022-23
 | a/a | Τύπος |	Τίτλος | Συνοπτική Περιγραφή | Σύνδεσμος |
 |:--|--:|--:|--:|--:|
 |1.|Σύνολα Ανοιχτών Δεδομένων | Διάθεση Ανοιχτών Συνόλων Μετεωρολογικών Δεδομένων του Μετεωρολογικού σταθμού του ΠΣΠΘ | Διάθεση των παρακάτω Δεδομένων created_at, Temperature (C), Humidity (%), Pressure (hPa), Windspeed (m/s), Wind Bearing (degres), Precipitation (mm)) | Παράδειγμα [ΕΔΩ](https://drive.google.com/file/d/1KvldB-FluHEesXnVkZUSYzr3m_5vbzEz/view?usp=share_link), Σύνολα προς λήψη [ΕΔΩ](https://drive.google.com/drive/folders/1eAGSkDSFUQu02DGRtywz5FIvXbJZLp5o?usp=sharing)|
@@ -83,5 +92,28 @@
 |5.|Διδακτικό Σενάριο Πληροφορική Β Γυμνασίου - Ύψος Βροχόπτωσης, Φίλιππος Κουτσάκας |Μελετώντας το φαινόμενο της κλιματικής αλλαγής μέσα από την καταγραφή και ανάλυση μετεωρολογικών δεδομένων|Διδακτικό Σενάριο επεξεργασίας αυθεντικών μετεωρολογικών δεδομένων τα οποία προέρχονται από του μετεωρολογικό σταθμό του ΠΣΠΘ.|Σενάριο [ΕΔΩ](https://drive.google.com/file/d/1Al7UzjZyOVhm1UpJJqo9_qOFS4gAo_i5/view?usp=share_link) Φύλλο Εργασίας [ΕΔΩ](https://drive.google.com/file/d/1U0BocfiZFu3UFEcDdfsBfNEH17-82QPB/view?usp=share_link)|
 |4.|:--|--:|--:|--:|--:|
 
+## 6. Ο Μετεωρολογικός σταθμός του ΠΣΠΘ
+Μετεωρολογικά Δεδομένα του σταθμού σε πραγματικό χρόνο [ΕΔΩ](https://thingspeak.com/channels/1010145/)
 
+![meteo-staion-architecture](https://user-images.githubusercontent.com/5950820/222653888-6a2515d2-db88-4960-af67-47e7d9cfaa20.png)
 
+## 7. Βιβλιογραφία
+Κουτσάκας, Φ., Κοσμίδης, Ε., Τολίκα, Κ. (2021). Κατασκευή, παραμετροποίηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού, βασισμένου σε ανοιχτές τεχνολογίες, στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία». Πρακτικά Εργασιών 7ου Διεθνούς Συνεδρίου, για την Προώθηση της Εκπαιδευτικής Καινοτομίας, Λάρισα 15-17 Οκτωβρίου 2021, ISSN: 2529-1580, SET: 978‐618‐5562‐05‐2, ISBN: 978‐618‐5562‐09‐0 (τόμος Δ) 141-147. Διαθέσιμο στο https://synedrio.eepek.gr/el/to-synedrio/praktika-synedriou 
+
+13ο Μαθητικό Συνέδριο Πληροφορικής, (2021). Ανακτήθηκε Ιούνιος 24, 2021, απόhttp://www.math-syn-pli.gr/Arduino Project. (2021). Retrieved June 24, 2021, from Arduino: https://www.arduino.cc/BC Robotics. (2021). 
+
+BC Robotics Raspberry Pi Weather Station. Retrieved June 24, 2021,from https://bc-robotics.com/tutorials/raspberry-pi-weather-station-part-1/Bravo Schools. (2021). 
+
+Bravo Schools – Sustainable Greece 2021. Retrieved June 24, 2021,from https://observatory.sustainablegreece2020.com/gr/schools-practices/akraia-kairika-fainomena-enhmerwsh-ekpaideysh-kai-prostasia.2943.htmlEuropean 
+
+Space Agency (2021), ESA Climate Detectives Project. Retrieved June 24, 2021,from https://climatedetectives.esa.int/projects-gallery-2019-2020/details/152/Καρατζίδης, Ε., Κουτλή, Π., Κουτσάκας, Φ., (2019). 
+
+Τα ρομπότ στο μάτι του κυκλώνα: Οιμαθητές εργαλειοποιούν τη ρομποτική μηχανική και τη μετεωρολογία για την προστασίατων ελληνικών νησιών από την κλιματική αλλαγή, 5ο Διεθνές Συνέδριο για την Προώθησητης Εκπαιδευτικής Καινοτομίας, Λάρισα 11-13 Οκτωβρίου 2019.Microbit Educational Fundation. (2021). Retrieved June 24, 2021, fromhttps://microbit.org/PSPTH Weather Station GitHub Repo. (2021). Retrieved June 24, 2021, from https://github.com/fkoutsakas/climate-hazards-awareness-and-protectionRaspberry 
+
+Pi Projects. (2021). Build your own weather station. Retrieved June 24, 2021,from https://projects.raspberrypi.org/en/projects/build-your-own-weather-stationReal 
+
+Time Weather Data PSPTH. (2021). Retrieved June 24, 2021, fromhttps://thingspeak.com/channels/1010145
+
+Raspberry Pi (2021). Teach, Learn, and Make with Raspberry Pi. Retrieved June 24, 2021,from https://www.raspberrypi.org/Think Speak for Iot Projects. (2021). Retrieved June 24, 2021, fromhttps://thingspeak.com/VNC (2021). VNC Viewer. Retrieved June 24, 2021, fromhttps://www.realvnc.com/en/connect/download/viewer/
+
+(PDF) Κατασκευή, παραμετροποίηση και διαχείριση ενός πρότυπου μετεωρολογικού σταθμού, βασισμένου σε ανοιχτές τεχνολογίες, στο πλαίσιο του έργου «Ακραία Καιρικά Φαινόμενα: ενημέρωση, εκπαίδευση και προστασία». Available from: https://www.researchgate.net/publication/355781976_Kataskeue_parametropoiese_kai_diacheirise_enos_protypou_meteorologikou_stathmou_basismenou_se_anoichtes_technologies_sto_plaisio_tou_ergou_Akraia_Kairika_Phainomena_enemerose_ekpaideuse_kai_prostasia [accessed Mar 03 2023].
